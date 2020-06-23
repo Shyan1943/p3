@@ -1,39 +1,103 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Milestone Project 3 (Python and Data Centric Development)
 
-Welcome USER_NAME,
+```
+Project Idea : 
+● Create an online vessel schedule platform 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+Project Purpose : 
+● In this project, I build a full-stack site that allows users to manage a common dataset about a particular domain.
+ 
+Main Technologies : 
+● Required: HTML, CSS, JavaScript, Python+Flask, MongoDB Additional libraries and external APIs
+ 
+Value provided:
+● Users make use of the site to share their own data with the community, and benefit from having convenient access to the data provided by all other members.
+The site owner advances their own goals by providing this functionality, potentially by being a regular user themselves. The site owner might also benefit from the collection of the dataset as a whole.
 
-## Gitpod Reminders
+```
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## UI/UX
+### 1) STRATEGY
+```
+External user’s goal:
+● Find and share vessel schedule 
+ 
+Site owner's goal:
+● Promote a brand of one-stop logistics services
+```
+#### 1a) Defining the Project
+#### 1b) Target audience
+#### 1c) Identifying External Users
+#### Identifying External Users' Objective:
+#### 1d) Identifying Site Owners' Objective:
+#### Therefore, the platform should focus on:
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+### 2) SCOPE
+#### 2a) User stories
+#### 2b) Functional Requirement
+#### 2c) Content Requirement
+```
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+```
 
-A blue button should appear to click: *Make Public*,
+### 3) STRUCTURE
+#### 3a) Information Architecture
+#### 3b) Interaction Design
+```
 
-Another blue button should appear to click: *Open Browser*.
+```
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+### 4) SKELETON
+#### 4a) interface design
+#### 4b) Navigation design
+#### 4c) Information Design
+```
 
-## Updates Since The Instructional Video
+```
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+### 5) SURFACE
+```
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+```
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+## Features
+```
+Potential features to include:
+● Create a web application that allows users to store and easily access vessel sailing schedule. The schedule would include fields such as vessel details, date, searchable, download function, booking tools etc.
+● Create the back-end code and front-end form(s) to allow users to create schedule to the site, read, update and delete them. 
+● Create the back-end and front-end functionality for users to locate schedule based on the sailing schedule fields by using a full search functionality, <—or just a directory of schedule.—> 
+● Provide results in a manner that is visually appealing and user friendly.
+ 
+Advanced potential feature <—(nice-to-have)
+● Build upon the schedule (port to port) or after booking prompt out to promote site owner’s one-stop services (e.g. Container trucking, packing, stuffing, air/sea/land international shipping & etc).
+● Create a dashboard to provide some statistics about all the Singapore exporting/shipping news. 
+```
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Technologies Used 
+```
+HTML, CSS, JavaScript, Python+Flask, MongoDB Additional libraries and external APIs
+```
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Deployment
+```
 
---------
+```
 
-Happy coding!
+## Testing
+| Testing on   | Result                                                                            |
+|:------------:|-----------------------------------------------------------------------------------|
+| <a href="https://www.seoptimer.com/alt-tag-checker">Image</a> | "You do not have any images missing ALT attributes on your page"|
+| <a href="https://color.a11y.com/Contrast/">Color</a> | "Congratulations! No automated color contrast issues found on the webpage tested"|
+
+## Credits 
+```
+
+```
+
+
+## Acknowledgements
+```
+
+```
